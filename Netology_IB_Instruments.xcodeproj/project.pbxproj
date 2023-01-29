@@ -48,7 +48,6 @@
 		843C0677298675EC0033FE04 = {
 			isa = PBXGroup;
 			children = (
-				843C069D29867DC20033FE04 /* ProfileViewController.swift */,
 				843C0682298675EC0033FE04 /* Netology_IB_Instruments */,
 				843C0681298675EC0033FE04 /* Products */,
 			);
@@ -74,6 +73,7 @@
 				843C0697298679A40033FE04 /* ProfileView.xib */,
 				843C069929867CC20033FE04 /* ProfileView.swift */,
 				843C069B29867D5A0033FE04 /* Profile.storyboard */,
+				843C069D29867DC20033FE04 /* ProfileViewController.swift */,
 				843C0691298675EF0033FE04 /* Info.plist */,
 			);
 			path = Netology_IB_Instruments;
