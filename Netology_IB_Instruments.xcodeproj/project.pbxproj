@@ -13,6 +13,7 @@
 		843C068B298675EC0033FE04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 843C0689298675EC0033FE04 /* Main.storyboard */; };
 		843C068D298675EF0033FE04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 843C068C298675EF0033FE04 /* Assets.xcassets */; };
 		843C0690298675EF0033FE04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 843C068E298675EF0033FE04 /* LaunchScreen.storyboard */; };
+		843C0698298679A40033FE04 /* ProfileView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 843C0697298679A40033FE04 /* ProfileView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		843C068C298675EF0033FE04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		843C068F298675EF0033FE04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		843C0691298675EF0033FE04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		843C0697298679A40033FE04 /* ProfileView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				843C0689298675EC0033FE04 /* Main.storyboard */,
 				843C068C298675EF0033FE04 /* Assets.xcassets */,
 				843C068E298675EF0033FE04 /* LaunchScreen.storyboard */,
+				843C0697298679A40033FE04 /* ProfileView.xib */,
 				843C0691298675EF0033FE04 /* Info.plist */,
 			);
 			path = Netology_IB_Instruments;
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				843C0698298679A40033FE04 /* ProfileView.xib in Resources */,
 				843C0690298675EF0033FE04 /* LaunchScreen.storyboard in Resources */,
 				843C068D298675EF0033FE04 /* Assets.xcassets in Resources */,
 				843C068B298675EC0033FE04 /* Main.storyboard in Resources */,
