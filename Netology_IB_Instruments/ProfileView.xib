@@ -10,7 +10,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
-        <view contentMode="scaleToFill" id="iN0-l3-epB">
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ProfileView" customModule="Netology_IB_Instruments" customModuleProvider="target">
             <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
@@ -73,6 +73,11 @@
                 <constraint firstItem="OGz-w7-ddK" firstAttribute="leading" secondItem="5sZ-qT-Mex" secondAttribute="trailing" constant="20" id="rik-mu-47C"/>
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" relation="lessThanOrEqual" secondItem="yOL-kS-Lk2" secondAttribute="bottom" constant="323" id="zNr-3P-B5h"/>
             </constraints>
+            <connections>
+                <outlet property="cityLabel" destination="0ZC-Ay-dFP" id="Z95-8g-pEA"/>
+                <outlet property="dateOfBirthLabel" destination="QMj-kY-3KO" id="47O-lW-xiA"/>
+                <outlet property="nameLabel" destination="OGz-w7-ddK" id="RyO-d8-D9B"/>
+            </connections>
             <point key="canvasLocation" x="52.5" y="-11.619718309859156"/>
         </view>
     </objects>
