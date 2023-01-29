@@ -16,6 +16,7 @@
 		843C0698298679A40033FE04 /* ProfileView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 843C0697298679A40033FE04 /* ProfileView.xib */; };
 		843C069A29867CC20033FE04 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843C069929867CC20033FE04 /* ProfileView.swift */; };
 		843C069C29867D5A0033FE04 /* Profile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 843C069B29867D5A0033FE04 /* Profile.storyboard */; };
+		843C069E29867DC20033FE04 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843C069D29867DC20033FE04 /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		843C0697298679A40033FE04 /* ProfileView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileView.xib; sourceTree = "<group>"; };
 		843C069929867CC20033FE04 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		843C069B29867D5A0033FE04 /* Profile.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Profile.storyboard; sourceTree = "<group>"; };
+		843C069D29867DC20033FE04 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +48,7 @@
 		843C0677298675EC0033FE04 = {
 			isa = PBXGroup;
 			children = (
+				843C069D29867DC20033FE04 /* ProfileViewController.swift */,
 				843C0682298675EC0033FE04 /* Netology_IB_Instruments */,
 				843C0681298675EC0033FE04 /* Products */,
 			);
@@ -151,6 +154,7 @@
 			files = (
 				843C069A29867CC20033FE04 /* ProfileView.swift in Sources */,
 				843C0688298675EC0033FE04 /* ViewController.swift in Sources */,
+				843C069E29867DC20033FE04 /* ProfileViewController.swift in Sources */,
 				843C0684298675EC0033FE04 /* AppDelegate.swift in Sources */,
 				843C0686298675EC0033FE04 /* SceneDelegate.swift in Sources */,
 			);
